@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "小瘦金",
+		"description": "chouye的个人博客，记录、探索、笔记。",
+		"username": "小瘦金"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -44,21 +44,21 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/chouye165",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/1167260492",
+			"label": "B站",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "chouye165@163.com",
 			"label": "",
 			"order": 1
 		}
@@ -68,7 +68,7 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 2,
 	"hatFlipped": false,
 	"enableChristmas": true,
 	"beian": {
