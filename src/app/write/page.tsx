@@ -7,7 +7,7 @@ import { WriteSidebar } from './components/sidebar'
 import { WriteActions } from './components/actions'
 import { WritePreview } from './components/preview'
 import { useEffect } from 'react'
-
+export const runtime = 'edge';
 export default function WritePage() {
 	const { form, cover, reset } = useWriteStore()
 	useEffect(() => reset(), [])
