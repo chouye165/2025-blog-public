@@ -61,6 +61,13 @@
 			"value": "chouye165@163.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1766729622208",
+			"type": "qq",
+			"value": "3184414346",
+			"label": "",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
