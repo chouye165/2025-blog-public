@@ -28,5 +28,35 @@
 		"tags": [
 			"图床"
 		]
+	},
+	{
+		"name": "临时邮箱",
+		"year": 2025,
+		"image": "https://tc.666688.dpdns.org/api/cfile/AgACAgUAAyEGAATUZiJwAAMKaUlVUBc3bRPuskR8CYyV1aUSS7UAAtAMaxsDhklW0z7fK6hVo4oBAAMCAAN5AAM2BA",
+		"url": "https://yx.chouye.dpdns.org/",
+		"description": "自建的临时邮箱。",
+		"tags": [
+			"mail"
+		]
+	},
+	{
+		"name": "代码展示",
+		"year": 2025,
+		"image": "https://tc.666688.dpdns.org/api/cfile/AgACAgUAAyEGAATUZiJwAAMaaU4e8HLhceb5JTcyCxMbOosQwfIAApcLaxvEp3FWqT7TB-YOSZcBAAMCAAN3AAM2BA",
+		"url": "https://code.20066666.xyz/",
+		"description": "自建的代码展示界面",
+		"tags": [
+			"code"
+		]
+	},
+	{
+		"name": "旧的主页",
+		"year": 2025,
+		"image": "https://tc.666688.dpdns.org/api/cfile/AgACAgUAAyEGAATUZiJwAAMbaU4foUlOSCN1gUoPym6KpIttODQAApsLaxvEp3FWo38avMDLrf8BAAMCAAN5AAM2BA",
+		"url": "https://page.20066666.xyz/",
+		"description": "旧的主页",
+		"tags": [
+			"主页"
+		]
 	}
 ]
