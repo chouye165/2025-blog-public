@@ -58,5 +58,15 @@
 		"tags": [
 			"主页"
 		]
+	},
+	{
+		"name": "在线聊天",
+		"year": 2025,
+		"image": "https://tc.666688.dpdns.org/api/cfile/AgACAgUAAyEGAATUZiJwAAMeaU_wSrKO4SYIP8DZ6YmEmHOYje8AAkYLaxuYzoBWZpPfzcg6m3MBAAMCAAN3AAM2BA",
+		"url": "https://chat.20066666.xyz/",
+		"description": "端到端的在线聊天网页",
+		"tags": [
+			"chat"
+		]
 	}
 ]
