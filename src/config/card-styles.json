@@ -90,11 +90,11 @@
 		"enabled": true
 	},
 	"hatCard": {
-		"width": 99,
-		"height": 105,
+		"width": 123,
+		"height": 130,
 		"order": 10,
-		"offsetX": -48,
-		"offsetY": -168,
+		"offsetX": -75,
+		"offsetY": -162,
 		"enabled": true
 	},
 	"beianCard": {
