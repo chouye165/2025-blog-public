@@ -79,5 +79,27 @@
 			"工具"
 		],
 		"github": "https://github.com/chouye165/ESP-OLED"
+	},
+	{
+		"name": "牛牛解谜",
+		"year": 2026,
+		"image": "https://tc.666688.dpdns.org/api/cfile/AgACAgUAAyEGAATUZiJwAAMuajFeMgX10fNIwzhHSnKmd71pxUMAAkMTaxtb5olV-VCt8vNj1bEBAAMCAAN5AAM8BA",
+		"url": "https://niu.yzz.me/",
+		"description": "佛系消消消辅助工具",
+		"tags": [
+			"工具"
+		],
+		"github": "https://github.com/chouye165/CowPuzzleSolver"
+	},
+	{
+		"name": "远程锁屏",
+		"year": 2026,
+		"image": "https://tc.666688.dpdns.org/api/cfile/AgACAgUAAyEGAATUZiJwAAMvajFfBnosb1U4N0zM9929f8UDm0IAAkUTaxtb5olV1JbgokNNUJYBAAMCAAN5AAM8BA",
+		"url": "https://lock.20066666.xyz/",
+		"description": "远程锁屏软件",
+		"tags": [
+			"工具"
+		],
+		"github": "https://github.com/chouye165/lockscreen-backend"
 	}
 ]
