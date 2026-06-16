@@ -68,5 +68,16 @@
 		"tags": [
 			"chat"
 		]
+	},
+	{
+		"name": "图片取模工具",
+		"year": 2026,
+		"image": "https://tc.666688.dpdns.org/api/cfile/AgACAgUAAyEGAATUZiJwAAMtajFVkDMrihpMtO8yRO68LeREOp4AAjITaxtb5olVFCpdQMd1qxkBAAMCAAN5AAM8BA",
+		"url": "https://oled.chouye.qzz.io/",
+		"description": "支持图片动图取模的网站",
+		"tags": [
+			"工具"
+		],
+		"github": "https://github.com/chouye165/ESP-OLED"
 	}
 ]
